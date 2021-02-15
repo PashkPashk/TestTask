@@ -1,4 +1,4 @@
 # TestTask
-request - Пример запроса для 5 задания.
-FlaskApp - Flask приложение.
-simplemodel - Простая модель.
+request,
+FlaskApp,
+simplemodel - 5 задание
