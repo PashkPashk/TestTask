@@ -9,7 +9,7 @@ import json
 
 url = 'http://localhost:5000/calc_proba'
 
-data = {#'age': 54,
+data = {'age': 54,
         'job':'adm.',
         'marital':'divorced', 
         'education': 'high.school',
